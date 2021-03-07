@@ -9,6 +9,9 @@ To get a position as a Junior Frontend Developer.
 - JS
 - Git
 
+#### Code examples:
+[My GitHub](https://github.com/vakulinina "My GitHub")
+
 ------------
 #### Education:
 - Sevastopol National Technical University: English teacher/social pedagogue
