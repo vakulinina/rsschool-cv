@@ -12,6 +12,9 @@ To get a position as a Junior Frontend Developer.
 #### Code examples:
 [My GitHub](https://github.com/vakulinina "My GitHub")
 
+#### Experience:
+  [Codewars profile](https://www.codewars.com/users/vakulinina "Codewars profile")
+
 ------------
 #### Education:
 - Sevastopol National Technical University: English teacher/social pedagogue
